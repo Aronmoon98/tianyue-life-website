@@ -1,6 +1,26 @@
-*.gem
-.bundle
-.jekyll-cache
+# IDE specific
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules
+public
+
+Thumbs.db
+.DS_Store
+.dist
+.tmp
+.lock
 .sass-cache
-_site
-Gemfile.lock
+npm-debug.log
+builds
+package-lock.json
+public
+resources
+.hugo_build.lock
+jsconfig.json
+hugo_stats.json
+go.sum
+yarn.lock
