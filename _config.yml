@@ -2,7 +2,7 @@
 # Site
 
 title: Treat Template
-url: "https://aronmoon.com"
+url: https://aronmoon.com
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -18,7 +18,7 @@ author:
 social:
   name: Treat Template
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - "https://aronmoon.com"
 
 # -----
 # Build
